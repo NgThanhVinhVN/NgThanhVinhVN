@@ -1,8 +1,8 @@
-[![MasterHead](https://pa1.aminoapps.com/6462/43b1fa285fa0dd2be3de876e3eef678b03e0510b_hq.gif)](https://nthanhvinhdev.github.io)
+![logo](https://pa1.aminoapps.com/6462/43b1fa285fa0dd2be3de876e3eef678b03e0510b_hq.gif)
 <h1 align="center">Hi 👋, I'm Ng Thanh Vinh</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
-<img align=right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/948475442981489033/3C22677FB6AEC5B23BF713ECBEA7BE19A9670317/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img align="right" alt="coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/948475442981489033/3C22677FB6AEC5B23BF713ECBEA7BE19A9670317/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngthanhvinhvn&label=Profile%20views&color=0e75b6&style=flat" alt="ngthanhvinhvn" /> </p>
 
