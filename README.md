@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dreykov-hatake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dreykov-hatake" height="30" width="40" /></a>
-<a href="https://fb.com/ntvxdreykov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ntvxdreykov" height="30" width="40" /></a>
+<a href="https://twitter.com/Dreykov-HaTaKe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dreykov-hatake" height="30" width="40" /></a>
+<a href="https://fb.com/NTVxDreyKoV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ntvxdreykov" height="30" width="40" /></a>
 <a href="https://instagram.com/dreykov_izwl5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dreykov_izwl5" height="30" width="40" /></a>
 </p>
 
