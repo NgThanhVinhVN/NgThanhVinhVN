@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ng Thanh Vinh</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
-<img align=right" alt="Coding" width="400" src="[https://link](https://i.pinimg.com/originals/26/6c/3f/266c3f55dcda7e90be7090dfed4df3e0.gif)">
+<img align=right" alt="Coding" width="400" src="[[https://link](https://i.pinimg.com/originals/26/6c/3f/266c3f55dcda7e90be7090dfed4df3e0.gif)](https://i.pinimg.com/originals/a2/d1/22/a2d1228d59b8b75d97d13e93fe9737d6.jpg)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngthanhvinhvn&label=Profile%20views&color=0e75b6&style=flat" alt="ngthanhvinhvn" /> </p>
 
