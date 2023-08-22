@@ -1,4 +1,4 @@
-![logo](https://pa1.aminoapps.com/6462/43b1fa285fa0dd2be3de876e3eef678b03e0510b_hq.gif)
+![logo](https://w.wallhaven.cc/full/k9/wallhaven-k9eqe7.png)
 <h1 align="center">Hi 👋, I'm Ng Thanh Vinh</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
