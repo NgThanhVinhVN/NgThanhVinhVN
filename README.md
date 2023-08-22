@@ -1,11 +1,22 @@
 <h1 align="center">Hi 👋, I'm Ng Thanh Vinh</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
+<img align=right" alt="Coding" width="400" src="[https://link](https://i.pinimg.com/originals/26/6c/3f/266c3f55dcda7e90be7090dfed4df3e0.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngthanhvinhvn&label=Profile%20views&color=0e75b6&style=flat" alt="ngthanhvinhvn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngthanhvinhvn" alt="ngthanhvinhvn" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/dreykov-hatake" target="blank"><img src="https://img.shields.io/twitter/follow/dreykov-hatake?logo=twitter&style=for-the-badge" alt="dreykov-hatake" /></a> </p>
+
+- 👨‍💻 I’m currently working on [NgThanhVinh.github.io](https://NgThanhVinh.github.io)
+
+- 🤝 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com)
+
+- ⚡ Contact Me [Telegram](https://t.me/iamDreyKoV)
+
+- 📫 How to reach me **layer4flood@gmail.com**
+
+- 📄 Language for communicating with computers [Python, HTML, CSS, JavaScript, Golang](Python, HTML, CSS, JavaScript, Golang)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
