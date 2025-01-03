@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="(https://images6.alphacoders.com/138/thumb-1920-1383710.jpg)" alt="thanhvinh-banner" style="border-radius: 15px;">
+<img src="https://images6.alphacoders.com/138/thumb-1920-1383710.jpg" alt="thanhvinh-banner" style="border-radius: 15px;">
 <div align="center">
   <h1><pre>Hi, I'm NgThanhVinhVN</pre></h1>
 </div>
