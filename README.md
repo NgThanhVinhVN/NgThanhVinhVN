@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQacIkDKxzVHRkcgQU8AwzC5ISE6dzOXRoSwnFe4IRfue-0HYJwMh5ZIBApqirVs3fasuE&usqp=CAU)" alt="thanhvinh-banner" style="border-radius: 15px;">
+<img src="(https://images6.alphacoders.com/138/thumb-1920-1383710.jpg)" alt="thanhvinh-banner" style="border-radius: 15px;">
 <div align="center">
   <h1><pre>Hi, I'm NgThanhVinhVN</pre></h1>
 </div>
