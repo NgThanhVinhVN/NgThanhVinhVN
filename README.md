@@ -8,8 +8,8 @@
 ---
 
 ## 👋 About Me
-Hi — I'm **Nguyễn Thành Vinh**, a Full-stack developer from Vietnam 🇻🇳.  
-I build backend services, automation tools and developer utilities — I focus on clarity, performance, and practical open-source projects.
+Hi — I'm **Nguyễn Thành Vinh**, a Developer from Vietnam 🇻🇳.  
+I build automation tools and developer utilities — I focus on clarity, performance, and practical open-source projects.
 
 - 🔭 I’m currently building and maintaining open-source tooling and bots.
 - ⚙️ Main stacks: **Node.js, Python, Java, Golang**.
