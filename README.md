@@ -13,7 +13,7 @@ I build backend services, automation tools and developer utilities — I focus o
 
 - 🔭 I’m currently building and maintaining open-source tooling and bots.
 - ⚙️ Main stacks: **Node.js, Python, Java, Golang**.
-- 📫 Reach me: **nguyenthanhvinh.dev@gmail.com**
+- 📫 Reach me: **layer4flood@gmail.com**
 
 ---
 
