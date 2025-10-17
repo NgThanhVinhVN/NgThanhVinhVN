@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
   <a href="https://github.com/NgThanhVinhVN">
-    <img src="https://i.pinimg.com/originals/0f/e3/f7/0fe3f728345318b625a7fb87c2626f8e.gif" alt="Nguyễn Thành Vinh" />
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyaGFqaXA1YnlmcXBwczVqeGN2YmJ1eW83NmVyYTd6MXF4cXh5MGRkMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JLYQnbND9gkYU/giphy.gif" alt="Nguyễn Thành Vinh" />
   </a>
 </p>
 
