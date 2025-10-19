@@ -53,7 +53,22 @@ I build automation tools and developer utilities — I focus on clarity, perform
 ---
 
 ## 🚀 Top Projects (expanded)
-> Các mô tả là tóm tắt — mình ghi ngắn gọn để hiển thị đẹp. Bạn muốn chi tiết hơn (README riêng cho từng repo), mình sẽ viết tiếp.
+
+| # | Project | Description | Tech Stack |
+|---|----------|--------------|-------------|
+| **1** | [SSH-API](https://github.com/NgThanhVinhVN/SSH-API) | REST API để quản lý và thao tác SSH (tạo session, exec lệnh, upload file) — thích hợp để tự động hóa quản trị server. | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" /> |
+| **2** | [Methods-Layer7](https://github.com/NgThanhVinhVN/Methods-Layer7) | Bộ công cụ/collection các phương thức layer7 cho testing và automation (HTTP flood, custom request patterns) — dùng cho nghiên cứu và kiểm thử. | <img src="https://skillicons.dev/icons?i=nodejs,typescript,axios&theme=dark" /> |
+| **3** | [TikTok-Bot](https://github.com/NgThanhVinhVN/TikTok-Bot) | Bot tự động hóa tương tác trên TikTok (like, follow, comment) phục vụ thử nghiệm và workflow *(tuân thủ TOS)*. | <img src="https://skillicons.dev/icons?i=python,puppeteer&theme=dark" /> |
+| **4** | [Tinder-API](https://github.com/NgThanhVinhVN/Tinder-API) | Wrapper / client cho Tinder API — script quản lý profile, tương tác, và phân tích dữ liệu (dùng cho nghiên cứu cá nhân). | <img src="https://skillicons.dev/icons?i=nodejs,axios&theme=dark" /> |
+| **5** | [Proxy-Checker](https://github.com/NgThanhVinhVN/Proxy-Checker) | Công cụ kiểm tra, lọc và benchmark danh sách proxy (HTTP/SOCKS) — hỗ trợ concurrency và lưu kết quả. | <img src="https://skillicons.dev/icons?i=go,python,redis&theme=dark" /> |
+| **6** | [Vencord](https://github.com/NgThanhVinhVN/Vencord) | Các plugin/tiện ích mở rộng UI cho ứng dụng desktop/web (ví dụ tùy chỉnh giao diện). | <img src="https://skillicons.dev/icons?i=javascript,electron,webpack&theme=dark" /> |
+
+<p align="center">
+  <a href="https://github.com/NgThanhVinhVN?tab=repositories&sort=stargazers">
+    ⭐ Xem tất cả repositories trên GitHub →
+  </a>
+</p>
+
 
 ### 1. [SSH-API](https://github.com/NgThanhVinhVN/SSH-API)  
 **Mô tả:** REST API để quản lý và thao tác SSH (tạo session, exec lệnh, upload file) — thích hợp để tự động hóa quản trị server.  
