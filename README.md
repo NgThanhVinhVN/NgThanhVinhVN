@@ -1,111 +1,120 @@
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyaGFqaXA1YnlmcXBwczVqeGN2YmJ1eW83NmVyYTd6MXF4cXh5MGRkMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JLYQnbND9gkYU/giphy.gif" alt="DevOps Automation" width="120"/>
-  <br>
-  <h1>Nguyễn Thành Vinh</h1>
-  <h3>DevOps Engineer | Automation Specialist | Infrastructure Enthusiast</h3>
-</p>
+DevOps Engineer | Automation Builder | Open Source
+<p align="center"> <img src="https://media.giphy.com/media/JLYQnbND9gkYU/giphy.gif" width="220"/> </p>
+👋 About Me
 
-<p align="center">
-  <a href="mailto:layer4flood@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://facebook.com/NgThanhVinhVN"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://www.linkedin.com/in/ngthanhvinhvn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/NgThanhVinhVN"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+Hi — I'm Nguyễn Thành Vinh 🇻🇳
+💡 DevOps-oriented Developer focused on automation, scalability, and infrastructure reliability
 
----
+🔧 I build automation tools, bots, and backend systems
 
-## 👋 About Me
+☁️ Moving towards DevOps / Cloud Engineering
 
-I'm a **DevOps-oriented developer** from Vietnam 🇻🇳, passionate about **automation**, **infrastructure as code**, **CI/CD pipelines**, and building reliable, scalable systems.
+⚡ Strong interest in CI/CD, Infrastructure as Code, and system performance
 
-I create practical open-source tools to solve real-world problems in server management, proxy handling, performance testing, and workflow automation — always focusing on **performance**, **reliability**, and **clean code**.
+📦 Passionate about open-source & practical tools
 
-- 🔭 Currently building & maintaining automation utilities, SSH management APIs, proxy tools, and Layer-7 testing kits.
-- 🌱 Deepening knowledge in **Kubernetes**, **Terraform**, **cloud-native tooling**, and advanced CI/CD.
-- ⚡ Fun fact: I enjoy turning repetitive tasks into elegant one-click solutions.
+📫 Contact: layer4flood@gmail.com
 
-📫 **Reach me:** layer4flood@gmail.com
+🧠 Core Skills
+⚙️ DevOps & Cloud
 
----
+Docker, Containerization
 
-## 🛠️ Tech Stack | DevOps Focus
+CI/CD (GitHub Actions)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform,aws,gcp,azure,linux,bash,git,nodejs,python,go,java,express,fastapi,mongodb,postgres,redis,nginx&theme=dark" alt="DevOps & Backend Stack"/>
-</p>
+Linux System Administration
 
-### Core DevOps & Infrastructure
-- **Containerization & Orchestration** → Docker, Kubernetes (learning)
-- **CI/CD & Automation** → GitHub Actions, Jenkins (basics), GitLab CI
-- **IaC & Configuration** → Terraform (exploring), Ansible (basics), Shell scripting
-- **Cloud & Hosting** → AWS, GCP, Vercel, Railway, Netlify, Heroku
-- **Monitoring & Proxy** → Redis, Prometheus (exploring), custom proxy checkers
+Nginx, Reverse Proxy
 
-### Languages & Frameworks
-- Go, Python, Node.js/TypeScript, Java
-- Express/Fastify, FastAPI/Flask, Spring Boot
+Basic Cloud Deployments (Vercel, Railway, Netlify)
 
-### Databases & Tools
-- PostgreSQL, MongoDB, MySQL, Redis, SQLite
-- Git, VS Code, Postman/Insomnia, SSH2
+🛠 Backend Engineering
 
----
+Node.js (Express, Fastify)
 
-## 🚀 Featured Projects | DevOps & Automation
+Python (FastAPI, Flask)
 
-| # | Project | Description | Tech Stack | 
-|---|---------|-------------|------------|
-| 1 | **[SSH-API](https://github.com/NgThanhVinhVN/SSH-API)** | RESTful API for SSH session management, command execution, file upload — perfect for server automation & remote ops. | Node.js, Express, SSH2, MongoDB |
-| 2 | **[Proxy-Checker](https://github.com/NgThanhVinhVN/Proxy-Checker)** | High-performance proxy validator & benchmark tool (HTTP/SOCKS5) with concurrency, filtering & Redis caching. | Go, Python, Redis |
-| 3 | **[Methods-Layer7](https://github.com/NgThanhVinhVN/Methods-Layer7)** | Collection of Layer-7 HTTP methods & patterns for performance testing, stress research & automation (use ethically). | Node.js, TypeScript, Axios |
-| 4 | **[TikTok-Bot](https://github.com/NgThanhVinhVN/TikTok-Bot)** | Automation workflows & interaction testing (strictly TOS-compliant, research purposes only). | Python, Puppeteer/Requests |
-| 5 | **[Tinder-API](https://github.com/NgThanhVinhVN/Tinder-API)** | API client for profile & interaction analysis (personal research tool). | Node.js, Axios |
+Java (Spring Boot)
 
-More projects → [View all repositories](https://github.com/NgThanhVinhVN?tab=repositories&sort=stargazers)
+Golang (high-performance services)
 
----
+🗄 Databases
 
-## 📊 GitHub Stats & Activity
+MongoDB, MySQL, PostgreSQL
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NgThanhVinhVN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgThanhVinhVN&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
-</p>
+Redis (caching & queue)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NgThanhVinhVN&theme=dracula&hide_border=true"/>
-</p>
+🧪 Testing & Automation
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NgThanhVinhVN&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
+Jest, Mocha, Pytest
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NgThanhVinhVN/NgThanhVinhVN/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</p>
+Postman / Newman
 
----
+Script automation & bots
 
-## 🏆 Trophies & Badges
+🧰 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions,git,nodejs,python,go,java,mongodb,redis,mysql,postgres,vscode&theme=dark" /> </p>
+📌 Featured DevOps-Oriented Projects
+🔹 SSH-API
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NgThanhVinhVN&theme=dracula&no-frame=true&margin-w=15&row=1&column=6" alt="Trophies"/>
-</p>
+API quản lý SSH phục vụ automation server
 
----
+Remote command execution
 
-## 💼 Let's Connect & Collaborate
+File upload automation
 
-Feel free to reach out for DevOps discussions, automation ideas, or collaboration on infrastructure tools!
+Session management
+→ Use case: DevOps automation / remote orchestration
 
-<p align="center">
-  <a href="https://github.com/sponsors/NgThanhVinhVN"><img src="https://img.shields.io/badge/Sponsor-%F0%9F%92%96-red?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor"/></a>
-</p>
+🔹 Proxy-Checker
 
----
+Tool kiểm tra & benchmark proxy với concurrency cao
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NgThanhVinhVN&style=for-the-badge&color=58a6ff&label=Profile+Views"/>
-</p>
+Multi-threading / async
 
-**“Automate. Scale. Repeat.”** 🚀
+Redis caching
+
+High-performance scanning
+→ Use case: Network testing / infra tools
+
+🔹 Methods-Layer7
+
+HTTP testing & request simulation toolkit
+
+Custom request patterns
+
+Load & stress testing (research purpose)
+→ Use case: System testing / performance analysis
+
+🔹 TikTok-Bot
+
+Automation bot (workflow testing)
+
+Browser automation
+
+Task scheduling
+→ Use case: Automation pipelines
+
+📊 GitHub Stats
+<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=NgThanhVinhVN&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=NgThanhVinhVN&theme=tokyonight&hide_border=true"/> </p>
+📈 Activity
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=NgThanhVinhVN&theme=tokyo-night&hide_border=true"/> </p>
+🎯 DevOps Roadmap (Current Focus)
+
+ Linux & Networking fundamentals
+
+ Docker & containerization
+
+ CI/CD pipelines (GitHub Actions)
+
+ Kubernetes (coming next)
+
+ Cloud: AWS / GCP
+
+ Infrastructure as Code (Terraform)
+
+🌐 Connect
+<p align="center"> <a href="https://facebook.com/NgThanhVinhVN"><img width="32" src="https://i.imgur.com/5ydBKZc.png"/></a> <a href="https://www.linkedin.com/in/ngthanhvinhvn"><img width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a> <a href="mailto:nguyenthanhvinh.dev@gmail.com"><img width="32" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/></a> </p>
+💬 Quote
+
+“Automate everything. Scale what matters.”
