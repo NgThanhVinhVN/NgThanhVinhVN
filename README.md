@@ -1,18 +1,32 @@
-<!-- CYBERPUNK MAX HEADER -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=NGUYEN+THANH+VINH;DEVOPS+ENGINEER;AUTOMATION+%7C+INFRASTRUCTURE;SYSTEMS.+NOT+JUST+CODE."/>
-</h1>
+<!-- CYBERPUNK TERMINAL HEADER -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
+
+```bash
+> initializing system...
+
+user@devops:~$ whoami
+nguyenthanhvinh
+
+user@devops:~$ role
+DevOps Engineer
+
+user@devops:~$ focus
+automation | infrastructure | scaling
+
+user@devops:~$ status
+ONLINE
+
+user@devops:~$ _
+```
+
 </p>
 
+<h1 align="center">⚙️ NGUYEN THANH VINH</h1>
+<h3 align="center">DevOps Engineer • Automation • Infrastructure</h3>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/ROLE-DEVOPS-00f7ff?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DOMAIN-INFRASTRUCTURE-ff00ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FOCUS-AUTOMATION-00ff9c?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-0aff0a?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Automation+First;Infrastructure+Driven;Scale+Everything;DevOps+Mindset" />
 </p>
 
 ---
@@ -43,17 +57,17 @@
 [SSH-API]
 → Remote infrastructure control
 → Command execution / file transfer
-→ DevOps orchestration layer
+→ DevOps orchestration
 
 [Proxy-Checker]
 → Concurrent proxy validation engine
 → Redis caching + performance tuning
-→ Network benchmarking tool
+→ Network benchmarking
 
 [Methods-Layer7]
-→ HTTP traffic simulation framework
-→ Custom request generation
-→ Stress testing / behavior analysis
+→ HTTP traffic simulation toolkit
+→ Custom request patterns
+→ Stress testing / analysis
 ```
 
 ---
@@ -79,11 +93,11 @@
 
 ```bash
 [x] Linux / Networking
-[x] Containerization (Docker)
+[x] Docker / Containers
 [x] CI/CD Pipelines
-[ ] Kubernetes (orchestration layer)
-[ ] Cloud Systems (AWS / GCP)
-[ ] Infrastructure as Code (Terraform)
+[ ] Kubernetes
+[ ] Cloud (AWS / GCP)
+[ ] Terraform
 ```
 
 ---
