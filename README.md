@@ -1,23 +1,18 @@
-<!-- CYBERPUNK TERMINAL HEADER -->
+<!-- CYBERPUNK ASCII HEADER -->
 
 <p align="center">
 
 ```bash
-> initializing system...
+███╗   ██╗ ██████╗ ███████╗██╗   ██╗ ██████╗ ██████╗ ███████╗
+████╗  ██║██╔═══██╗██╔════╝██║   ██║██╔═══██╗██╔══██╗██╔════╝
+██╔██╗ ██║██║   ██║███████╗██║   ██║██║   ██║██████╔╝█████╗  
+██║╚██╗██║██║   ██║╚════██║██║   ██║██║   ██║██╔═══╝ ██╔══╝  
+██║ ╚████║╚██████╔╝███████║╚██████╔╝╚██████╔╝██║     ███████╗
+╚═╝  ╚═══╝ ╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝     ╚══════╝
 
-user@devops:~$ whoami
-nguyenthanhvinh
-
-user@devops:~$ role
-DevOps Engineer
-
-user@devops:~$ focus
-automation | infrastructure | scaling
-
-user@devops:~$ status
-ONLINE
-
-user@devops:~$ _
+> booting devops environment...
+> loading core modules...
+> system status: ONLINE
 ```
 
 </p>
@@ -26,7 +21,14 @@ user@devops:~$ _
 <h3 align="center">DevOps Engineer • Automation • Infrastructure</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Automation+First;Infrastructure+Driven;Scale+Everything;DevOps+Mindset" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Automation+First;Infrastructure+Driven;Scale+Everything;Systems+Over+Code" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/K8s-READY-00f7ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-AUTOMATED-ff00ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/INFRA-PRODUCTION-00ff9c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-0aff0a?style=for-the-badge"/>
 </p>
 
 ---
@@ -35,10 +37,10 @@ user@devops:~$ _
 
 ```bash
 > name        : Nguyen Thanh Vinh
-> role        : DevOps Engineer / Backend Developer
+> role        : DevOps Engineer / Backend Builder
 > location    : Vietnam
 > specialty   : Automation • Distributed Systems • Performance
-> philosophy  : "Execute. Refine. Repeat."
+> philosophy  : "Manual is a bug."
 ```
 
 ---
@@ -93,11 +95,11 @@ user@devops:~$ _
 
 ```bash
 [x] Linux / Networking
-[x] Docker / Containers
+[x] Containerization (Docker)
 [x] CI/CD Pipelines
-[ ] Kubernetes
+[ ] Kubernetes (advanced)
 [ ] Cloud (AWS / GCP)
-[ ] Terraform
+[ ] Terraform (IaC)
 ```
 
 ---
