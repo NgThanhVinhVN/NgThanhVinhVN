@@ -1,34 +1,40 @@
-<!-- CYBERPUNK ASCII HEADER -->
+<!-- CYBERPUNK TERMINAL HEADER PRO -->
 
 <p align="center">
 
 ```bash
-███╗   ██╗ ██████╗ ███████╗██╗   ██╗ ██████╗ ██████╗ ███████╗
-████╗  ██║██╔═══██╗██╔════╝██║   ██║██╔═══██╗██╔══██╗██╔════╝
-██╔██╗ ██║██║   ██║███████╗██║   ██║██║   ██║██████╔╝█████╗  
-██║╚██╗██║██║   ██║╚════██║██║   ██║██║   ██║██╔═══╝ ██╔══╝  
-██║ ╚████║╚██████╔╝███████║╚██████╔╝╚██████╔╝██║     ███████╗
-╚═╝  ╚═══╝ ╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝     ╚══════╝
+> boot sequence initiated...
 
-> booting devops environment...
-> loading core modules...
-> system status: ONLINE
+root@vinh:~# whoami
+nguyenthanhvinh
+
+root@vinh:~# id
+uid=0(devops) gid=0(infra) groups=automation,security
+
+root@vinh:~# uptime
+up 24/7 | load: optimized | state: stable
+
+root@vinh:~# focus
+automation • infrastructure • security
+
+root@vinh:~# status
+[ ONLINE ] ████████████████████████ 100%
 ```
 
 </p>
 
 <h1 align="center">⚙️ NGUYEN THANH VINH</h1>
-<h3 align="center">DevOps Engineer • Automation • Infrastructure</h3>
+<h3 align="center">DevOps • Backend Developer • Security</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Automation+First;Infrastructure+Driven;Scale+Everything;Systems+Over+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Automate+Everything;Secure+by+Design;Scale+Without+Limits;Think+in+Systems" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/K8s-READY-00f7ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-AUTOMATED-ff00ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/INFRA-PRODUCTION-00ff9c?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-0aff0a?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DEVOPS-ENGINEER-00f7ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SECURITY-AWARE-ff003c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-AUTOMATED-00ff9c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/INFRA-PRODUCTION-0aff0a?style=for-the-badge"/>
 </p>
 
 ---
@@ -37,10 +43,10 @@
 
 ```bash
 > name        : Nguyen Thanh Vinh
-> role        : DevOps Engineer / Backend Builder
+> role        : DevOps Engineer / System Builder
 > location    : Vietnam
-> specialty   : Automation • Distributed Systems • Performance
-> philosophy  : "Manual is a bug."
+> specialty   : Automation • Distributed Systems • Reliability
+> philosophy : "Execute. Refine. Repeat."
 ```
 
 ---
@@ -53,23 +59,36 @@
 
 ---
 
+## 🧬 ELITE.PROJECTS
+
+<p align="center">
+  <a href="https://github.com/NgThanhVinhVN/SSH-API">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NgThanhVinhVN&repo=SSH-API&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/NgThanhVinhVN/Proxy-Checker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NgThanhVinhVN&repo=Proxy-Checker&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
+
+---
+
 ## 🧩 CORE.MODULES
 
 ```bash
 [SSH-API]
-→ Remote infrastructure control
-→ Command execution / file transfer
-→ DevOps orchestration
+→ Infrastructure automation layer
+→ Remote command execution
+→ Secure file transfer
 
 [Proxy-Checker]
-→ Concurrent proxy validation engine
-→ Redis caching + performance tuning
-→ Network benchmarking
+→ Concurrent network validation
+→ Redis-backed performance engine
+→ High-speed benchmarking
 
 [Methods-Layer7]
-→ HTTP traffic simulation toolkit
-→ Custom request patterns
-→ Stress testing / analysis
+→ HTTP simulation toolkit
+→ Load / stress testing
+→ Behavior analysis
 ```
 
 ---
@@ -97,14 +116,15 @@
 [x] Linux / Networking
 [x] Containerization (Docker)
 [x] CI/CD Pipelines
+[x] Security fundamentals
 [ ] Kubernetes (advanced)
 [ ] Cloud (AWS / GCP)
-[ ] Terraform (IaC)
+[ ] Infrastructure as Code (Terraform)
 ```
 
 ---
 
-## 🌐 NETWORK.LINKS
+## 🌐 NETWORK.ENDPOINTS
 
 <p align="center">
   <a href="mailto:layer4flood@gmail.com">
@@ -126,4 +146,4 @@
 
 ---
 
-<h3 align="center">⚡ "Build systems that scale. Break systems that don't."</h3>
+<h3 align="center">⚡ "Secure it. Automate it. Scale it."</h3>
