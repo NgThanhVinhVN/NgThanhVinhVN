@@ -1,134 +1,112 @@
-<!-- Banner -->
+<!-- CYBERPUNK HEADER -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Nguyen+Thanh+Vinh;DevOps+Engineer;Automation+%26+Infrastructure;Build.+Break.+Scale."/>
+</h1>
+
 <p align="center">
-  <a href="https://github.com/NgThanhVinhVN">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyaGFqaXA1YnlmcXBwczVqeGN2YmJ1eW83NmVyYTd6MXF4cXh5MGRkMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JLYQnbND9gkYU/giphy.gif" alt="Nguyễn Thành Vinh" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="260"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ROLE-DevOps%20Engineer-00f7ff?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FOCUS-Automation-ff00ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-Building-00ff9c?style=for-the-badge"/>
+</p>
+
+---
+
+## ⚡ SYSTEM.INFO
+
+```bash
+> Name: Nguyen Thanh Vinh
+> Role: DevOps Engineer / Backend Developer
+> Location: Vietnam
+> Focus: Automation • Infrastructure • Performance
+> Mindset: "Automate everything"
+```
+
+---
+
+## 🧠 TECH.ARSENAL
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions,kubernetes,nodejs,python,go,mongodb,redis,postgres&theme=dark"/>
+</p>
+
+---
+
+## 🚀 CORE.PROJECTS
+
+```bash
+[SSH-API]
+→ Remote server automation
+→ Execute commands / upload files
+→ DevOps orchestration tool
+
+[Proxy-Checker]
+→ High-performance proxy scanner
+→ Concurrency + Redis caching
+→ Network benchmarking
+
+[Methods-Layer7]
+→ HTTP testing toolkit
+→ Custom request patterns
+→ Load / stress testing (research)
+```
+
+---
+
+## 📊 GITHUB.STATS
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=NgThanhVinhVN&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=NgThanhVinhVN&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📡 ACTIVITY.LOG
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NgThanhVinhVN&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 MISSION.ROADMAP
+
+```bash
+[x] Linux / Networking
+[x] Docker / Containers
+[x] CI/CD Pipelines
+[ ] Kubernetes
+[ ] Cloud (AWS / GCP)
+[ ] Terraform (IaC)
+```
+
+---
+
+## 🌐 CONNECT
+
+<p align="center">
+  <a href="mailto:layer4flood@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT-00f7ff?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+  <a href="https://facebook.com/NgThanhVinhVN">
+    <img src="https://img.shields.io/badge/FACEBOOK-00f7ff?style=for-the-badge&logo=facebook&logoColor=black"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ngthanhvinhvn">
+    <img src="https://img.shields.io/badge/LINKEDIN-00f7ff?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
 </p>
+
 ---
-## 👋 About Me
-Hi — I'm **Nguyễn Thành Vinh**, a Developer from Vietnam 🇻🇳.
-I build automation tools and developer utilities — I focus on clarity, performance, and practical open-source projects.
-- 🔭 I’m currently building and maintaining open-source tooling and bots.
-- ⚙️ Main stacks: **Node.js, Python, Java, Golang**.
-- 📫 Reach me: **layer4flood@gmail.com**
----
-## 🧰 Languages & Tools (Detailed)
-### Languages
-- JavaScript (ES6+), TypeScript
-- Python
-- Java
-- Golang
-- PHP, HTML, CSS
-### Backend & Frameworks
-- Node.js, Express.js, Fastify
-- Flask / FastAPI (Python)
-- Spring Boot (Java)
-- Native Go web services
-### Databases & Storage
-- MongoDB, MySQL, PostgreSQL
-- Redis, SQLite
-### DevOps & Hosting
-- Docker, GitHub Actions, Vercel, Heroku, Railway, Netlify
-### Testing & CI
-- Jest, Mocha, Pytest
-- Postman, Newman
-### Tools & IDEs
-- Git, GitHub, VS Code, Postman, Insomnia
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,go,php,nodejs,express,mongodb,mysql,redis,docker,github,git,vscode&theme=dark" />
+  <img src="https://komarev.com/ghpvc/?username=NgThanhVinhVN&style=for-the-badge&color=00f7ff"/>
 </p>
+
 ---
-## 🚀 Top Projects (expanded)
-| # | Project | Description | Tech Stack |
-|---|----------|--------------|-------------|
-| **1** | [SSH-API](https://github.com/NgThanhVinhVN/SSH-API) | REST API để quản lý và thao tác SSH (tạo session, exec lệnh, upload file) — thích hợp để tự động hóa quản trị server. | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" /> |
-| **2** | [Methods-Layer7](https://github.com/NgThanhVinhVN/Methods-Layer7) | Bộ công cụ/collection các phương thức layer7 cho testing và automation (HTTP flood, custom request patterns) — dùng cho nghiên cứu và kiểm thử. | <img src="https://skillicons.dev/icons?i=nodejs,typescript,axios&theme=dark" /> |
-| **3** | [TikTok-Bot](https://github.com/NgThanhVinhVN/TikTok-Bot) | Bot tự động hóa tương tác trên TikTok (like, follow, comment) phục vụ thử nghiệm và workflow *(tuân thủ TOS)*. | <img src="https://skillicons.dev/icons?i=python,puppeteer&theme=dark" /> |
-| **4** | [Tinder-API](https://github.com/NgThanhVinhVN/Tinder-API) | Wrapper / client cho Tinder API — script quản lý profile, tương tác, và phân tích dữ liệu (dùng cho nghiên cứu cá nhân). | <img src="https://skillicons.dev/icons?i=nodejs,axios&theme=dark" /> |
-| **5** | [Proxy-Checker](https://github.com/NgThanhVinhVN/Proxy-Checker) | Công cụ kiểm tra, lọc và benchmark danh sách proxy (HTTP/SOCKS) — hỗ trợ concurrency và lưu kết quả. | <img src="https://skillicons.dev/icons?i=go,python,redis&theme=dark" /> |
-| **6** | [Vencord](https://github.com/NgThanhVinhVN/Vencord) | Các plugin/tiện ích mở rộng UI cho ứng dụng desktop/web (ví dụ tùy chỉnh giao diện). | <img src="https://skillicons.dev/icons?i=javascript,electron,webpack&theme=dark" /> |
-<p align="center">
-  <a href="https://github.com/NgThanhVinhVN?tab=repositories&sort=stargazers">
-    ⭐ Xem tất cả repositories trên GitHub →
-  </a>
-</p>
-### 1. [SSH-API](https://github.com/NgThanhVinhVN/SSH-API)
-**Mô tả:** REST API để quản lý và thao tác SSH (tạo session, exec lệnh, upload file) — thích hợp để tự động hóa quản trị server.
-**Tech:** Node.js, Express, SSH2, MongoDB
----
-### 2. [Methods-Layer7](https://github.com/NgThanhVinhVN/Methods-Layer7)
-**Mô tả:** Bộ công cụ/collection các phương thức layer7 cho testing và automation (HTTP flood, custom request patterns) — dùng cho nghiên cứu và kiểm thử.
-**Tech:** Node.js, TypeScript, Axios
----
-### 3. [TikTok-Bot](https://github.com/NgThanhVinhVN/TikTok-Bot)
-**Mô tả:** Bot tự động hóa tương tác trên TikTok (like, follow, comment) phục vụ thử nghiệm và workflow. (LƯU Ý: tuân thủ điều khoản dịch vụ platform khi dùng).
-**Tech:** Python / Puppeteer / Requests
----
-### 4. [Tinder-API](https://github.com/NgThanhVinhVN/Tinder-API)
-**Mô tả:** Wrapper / client cho Tinder API — script quản lý profile, tương tác, và phân tích dữ liệu (dùng cho nghiên cứu cá nhân).
-**Tech:** Node.js, Axios
----
-### 5. [Proxy-Checker](https://github.com/NgThanhVinhVN/Proxy-Checker)
-**Mô tả:** Công cụ kiểm tra, lọc và benchmark danh sách proxy (HTTP/SOCKS) — hỗ trợ concurrency và lưu kết quả.
-**Tech:** Golang / Python (phiên bản đa luồng), Redis (cache)
----
-### 6. [Vencord](https://github.com/NgThanhVinhVN/Vencord)
-**Mô tả:** Các plugin/tiện ích mở rộng UI cho ứng dụng desktop/web (ví dụ tùy chỉnh giao diện).
-**Tech:** JavaScript, Electron / Webpack
----
-<p align="center">
-  <a href="https://github.com/NgThanhVinhVN?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/github/stars/NgThanhVinhVN?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-</p>
----
-## 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NgThanhVinhVN&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=NgThanhVinhVN&theme=monokai-metallian&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgThanhVinhVN&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true" />
-</p>
----
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NgThanhVinhVN&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</p>
----
-## 🏆 Achievements & Metrics
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NgThanhVinhVN&theme=dracula&no-frame=true&row=1&column=6" />
-</p>
----
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NgThanhVinhVN/NgThanhVinhVN/output/github-contribution-grid-snake-dark.svg" />
-</p>
----
-## 🪩 Holopin Badges
-<p align="center">
-  <a href="https://holopin.io/@ngthanhvinhvn">
-    <img src="https://holopin.me/ngthanhvinhvn" alt="@ngthanhvinhvn's Holopin board" />
-  </a>
-</p>
----
-## 💖 Sponsors
-<p align="center">
-  <a href="https://github.com/sponsors/NgThanhVinhVN">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Support%20My%20Work-F85D7F?style=for-the-badge&logo=heart&logoColor=white" />
-  </a>
-</p>
----
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://facebook.com/NgThanhVinhVN"><img width="32px" alt="Facebook" src="https://i.imgur.com/5ydBKZc.png"/></a>
-  <a href="https://www.linkedin.com/in/ngthanhvinhvn"><img width="32px" alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
-  <a href="mailto:nguyenthanhvinh.dev@gmail.com"><img width="32px" alt="Gmail" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/></a>
-</p>
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NgThanhVinhVN&style=for-the-badge&color=red&label=Profile+Views"/>
-</p>
----
-⭐ **“Code. Learn. Build. Repeat.”**
+
+<h3 align="center">⚡ "Build systems. Break limits. Scale everything."</h3>
